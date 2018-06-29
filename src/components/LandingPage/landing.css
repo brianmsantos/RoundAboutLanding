@@ -1,0 +1,9 @@
+:local(.landing){
+
+    background:url('./stories.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    font-family: Helvetica, Arial, sans-serif;
+}
